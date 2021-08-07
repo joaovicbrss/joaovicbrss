@@ -7,9 +7,11 @@
 # João Moura
 <sub>Engenheiro de Controle e Automação e Estudante de Data Science</sub>
 
+Em busca de ingressar na carreia de Dados através dos projetos do DSNP3, utilizando a experiência adquirida com troubleshooting de máquinas e sistemas implementados em minha carreira na área de engenharia. Com isso, gerar valor para meus clientes e comunidade de Data Science.
 
+Aluno do Data Science Na Prática (DSNP3) no Sigmoidal. Formado em Engenharia de Controle e Automação pela Universidade Anhanguera de Niterói (UNIAN) e Técnico em Eletrônica pela Escola Técnica Estadual Henrique Lage (ETEHL).
 
-**Background in:** Python
+**Background in:** Python, Análise de Dados e SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-v-l-moura/)
