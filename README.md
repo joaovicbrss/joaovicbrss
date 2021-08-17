@@ -21,6 +21,6 @@ Aluno do Data Science Na Prática (DSNP3) no Sigmoidal. Formado em Engenharia de
 
 ## Projetos:
 
-
+[Analisando_os_Dados_do_Airbnb_da_Ilha_de_Malta](https://github.com/joaovicbrss/portfolio/blob/main/Analisando_os_Dados_do_Airbnb_da_Ilha_de_Malta.ipynb)
 
 ---
